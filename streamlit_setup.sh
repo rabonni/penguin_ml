@@ -8,4 +8,6 @@ port = $PORT
 
 enableCORS = false
 
+secrets = "olayemi"
+
 " > ~/.streamlit/config.toml
